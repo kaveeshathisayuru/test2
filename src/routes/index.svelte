@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Nuwangana Dancing Group </h1>
+<a href="Photos">  <input type="button" value="Our Dancing Group Photos"> </a>
+<br/>
+<br/>
+<a href="Video">  <input type="button" value="Our Dancing Group Videos"> </a>
+<br/>
+<br/>
+<a href="Call">  <input type="button" value="Contact Information"> </a>
