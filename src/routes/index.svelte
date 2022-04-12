@@ -1,8 +1,9 @@
-<h1>Nuwangana Dancing Group </h1>
-<a href="Photos">  <input type="button" value="Our Dancing Group Photos"> </a>
-<br/>
-<br/>
-<a href="Video">  <input type="button" value="Our Dancing Group Videos"> </a>
-<br/>
-<br/>
-<a href="Call">  <input type="button" value="Contact Information"> </a>
+<div style="background-image: url('bg.jpg'); background-size: 100%; height:2750vh; background-repeat: no-repeat;" >
+    <h1> <center> Choose Your Language. </center> </h1>
+    <h1> <center> භාෂාව තෝරන්න. </center> </h1>
+    <a href="English"> Language = English</a>
+    <br/>
+    <br/>
+    <a href="Sinhala"> භාෂාව = සිංහල</a>
+    </div>
+    
