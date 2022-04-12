@@ -42,8 +42,7 @@
     </center> </p>
 </div>
 <a href="About">
-  <img src="iu.webp" width="100" height="100" />
-  </a>
+
 
 </div>
 
